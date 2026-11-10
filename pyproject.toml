@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "toolkit"
+version = "0.1.0"
+description = "Cross-language CLI utilities"
+authors = ["airshakur88 <272401523+airshakur88@users.noreply.github.com>"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
